@@ -1,16 +1,12 @@
 {
   "name": "gmaps-marker-clusterer",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "The library creates and manages per-zoom-level clusters for large amounts of markers. Google API v3.",
   "main": "src/markerclusterer.js",
   "directories": {
     "doc": "docs",
     "example": "examples",
     "lib": "src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:gmaps-marker-clusterer/gmaps-marker-clusterer.git"
   },
   "keywords": [
     "google",
@@ -28,18 +24,14 @@
   },
   "contributors": [
     {
-      "name": "Luke Mahe"
-    },
-    {
-      "name": "Sebastian Hösl",
-      "email": "sebastian.codes@gmail.com"
+      "name": "Openmind Lab"
     }
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/gmaps-marker-clusterer/gmaps-marker-clusterer/issues"
+    "url": "https://github.com/openmindlab/gmaps-marker-clusterer/issues"
   },
-  "homepage": "https://github.com/gmaps-marker-clusterer/gmaps-marker-clusterer#readme",
+  "homepage": "https://github.com/openmindlab/gmaps-marker-clusterer#readme",
   "devDependencies": {
     "uglify-js": "^3.1.5",
     "copy": "^0.3.1"

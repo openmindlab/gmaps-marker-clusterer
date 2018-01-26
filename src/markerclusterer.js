@@ -1580,3 +1580,6 @@ Cluster.prototype['getMarkers'] = Cluster.prototype.getMarkers;
 ClusterIcon.prototype['onAdd'] = ClusterIcon.prototype.onAdd;
 ClusterIcon.prototype['draw'] = ClusterIcon.prototype.draw;
 ClusterIcon.prototype['onRemove'] = ClusterIcon.prototype.onRemove;
+
+
+export {MarkerClusterer, Cluster, ClusterIcon}
